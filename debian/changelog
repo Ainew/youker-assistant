@@ -1,10 +1,10 @@
-youker-assistant (2.0.4) vivid; urgency=low
+youker-assistant (2.0.4) wily; urgency=low
 
-  * Modify cleanerdetailwidget.
+  * Distinguish system structure.
 
- -- Kobe Lee (kylinkobe) <xiangli@ubuntukylin.com>  Thu, 23 Jul 2015 08:53:30 +0800
+ -- Kobe Lee (kylinkobe) <xiangli@ubuntukylin.com>  Thu, 30 Jul 2015 11:28:25 +0800
 
-youker-assistant (2.0.3) vivid; urgency=low
+youker-assistant (2.0.3) wily; urgency=low
 
   * Access FT Arm settings and information.
   * Deal with situation when the scanning garbage is empty.
@@ -19,6 +19,7 @@ youker-assistant (2.0.3) vivid; urgency=low
   * Rewrite camera module and replace pygame with opencv.
   * Make dash blur experimental normal(LP: #1430118).
   * Modify custom skin filter(LP: #1475074).
+  * Modify cleanerdetailwidget.
 
  -- Kobe Lee (kylinkobe) <xiangli@ubuntukylin.com>  Thu, 16 Jul 2015 13:34:35 +0800
 
